@@ -286,6 +286,12 @@
             "songName": "[Anniversary] Welcome To My World - Grifotaged [Skyler Wallace]",
             "uploader": "anniversaryteam"
         },
+		{
+            "key": "612c",
+            "hash": "cdf6f11280c70ed41293b0c0e3a448837be95f68",
+            "songName": "[Anniversary] Origins - Jaroslav Beck [StyngMe & Skyler Wallace]",
+            "uploader": "anniversaryteam"
+        },
         {
             "key": "5519",
             "hash": "be16ddbdb319391e6d33072373c93c798bf4cc89",
@@ -313,7 +319,7 @@
         {
             "key": "5d23",
             "hash": "36b1e98b295759f87b2536b4ef75e9bbf249927d",
-            "songName": "[Anniversary] Alone (MRVLZ Remix) - Marshmello (StyngMe & baxter395)",
+            "songName": "[Anniversary] Alone (MRVLZ Remix) - Marshmello [StyngMe & baxter395]",
             "uploader": "anniversaryteam"
         },
         {
@@ -343,13 +349,13 @@
         {
             "key": "5d2b",
             "hash": "3d38408687458c17dce3d4bbf588cf4494b18ac8",
-            "songName": "[Anniversary] Weird Machine - DROELOE (Skyler Wallace & Rexxz)",
+            "songName": "[Anniversary] Weird Machine - DROELOE [Skyler Wallace & Rexxz]",
             "uploader": "anniversaryteam"
         },
         {
             "key": "5d25",
             "hash": "51833469bd7e6d63605f3e329094fed6838fd507",
-            "songName": "[Anniversary] Forget - The Tech Thieves (StyngMe)",
+            "songName": "[Anniversary] Forget - The Tech Thieves [StyngMe]",
             "uploader": "anniversaryteam"
         },
         {
@@ -359,9 +365,9 @@
             "uploader": "anniversaryteam"
         },
         {
-            "key": "5d28",
-            "hash": "bdda046051f2d9c38352bfc3d267447a70f5c723",
-            "songName": "[Anniversary] Millionaire (ft. Nelly | Alan Walker Remix) - Cash Cash & Digital Farm Animals (StyngMe & Skyler Wallace)",
+            "key": "612e",
+            "hash": "f24f1d16ca36b07b7af9681efff3987542fb29c0",
+            "songName": "[Anniversary] Millionaire (ft. Nelly | Alan Walker Remix) - Cash Cash & Digital Farm Animals [StyngMe & Skyler Wallace]",
             "uploader": "anniversaryteam"
         },
         {
@@ -391,7 +397,7 @@
         {
             "key": "5d26",
             "hash": "52cf3774ef1705f2830a85ad3147be9c52c795af",
-            "songName": "[Anniversary] Dancin (Krono Remix) - Aaron Smith (Skyler Wallace & Rexxz)",
+            "songName": "[Anniversary] Dancin (Krono Remix) - Aaron Smith [Skyler Wallace & Rexxz]",
             "uploader": "anniversaryteam"
         },
         {
@@ -409,7 +415,7 @@
         {
             "key": "5d24",
             "hash": "460fcbe6916bd64eb31ff65a03e4d46d4773e31c",
-            "songName": "[Anniversary] Face My Fears - Hikaru Utadu & Skrillex (BennyDaBeast)",
+            "songName": "[Anniversary] Face My Fears - Hikaru Utadu & Skrillex [BennyDaBeast]",
             "uploader": "anniversaryteam"
         },
         {
@@ -433,7 +439,7 @@
         {
             "key": "5d3e",
             "hash": "aa1d7eef6af33e7f8dc07ef34e7b573deb10e77e",
-            "songName": "[Anniversary] Intensity - Apoc (Funrankable)",
+            "songName": "[Anniversary] Intensity - Apoc [Funrankable]",
             "uploader": "anniversaryteam"
         },
         {
@@ -445,13 +451,13 @@
         {
             "key": "5d27",
             "hash": "4571f8144e99f99e34426f1954f851ce0018fcdd",
-            "songName": "[Anniversary] Break Them - Aero Chord (StyngMe & Rustic)",
+            "songName": "[Anniversary] Break Them - Aero Chord [StyngMe & Rustic]",
             "uploader": "anniversaryteam"
         },
         {
             "key": "5d2a",
             "hash": "c1fecfa568bc5e21009b2452e15134e52d6fba91",
-            "songName": "[Anniversary] Give It Up - Knife Party (StyngMe & Rustic)",
+            "songName": "[Anniversary] Give It Up - Knife Party [StyngMe & Rustic]",
             "uploader": "anniversaryteam"
         }
     ]
