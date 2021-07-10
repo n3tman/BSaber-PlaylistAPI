@@ -13,7 +13,7 @@ lists.forEach(function (plist) {
 
     console.log('\n----------------------\n' + plist);
 
-    /*pl.songs.forEach(function (song) {
+    pl.songs.forEach(function (song) {
         var hash = song.hash.trim().toLowerCase();
 
         var map = scraped.find(function(o) {
@@ -23,21 +23,25 @@ lists.forEach(function (plist) {
         if (map) {
             songs.push({
                 "key": map.key,
-                "hash": map.hash,
+                "hash": map.hash.toLowerCase(),
                 "songName": map.name.trim(),
                 "uploader": map.uploader.username
             })
         } else {
+            songs.push({
+                "hash": hash,
+                "songName": '### 404 ### ' + song.songName
+            });
             console.log('Map seems to be deleted! URL: https://beatsaver.com/api/maps/by-hash/' + hash)
         }
-    });*/
+    });
 
     var result = {
         "playlistTitle": title,
         "playlistAuthor": author,
         "playlistDescription" : desc,
         "syncURL": sync,
-        "songs": pl.songs,
+        "songs": songs,
         "image": image
     }
 
