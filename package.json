@@ -1,0 +1,24 @@
+{
+  "name": "bsaber-playlists",
+  "version": "1.0.0",
+  "description": "Repo for BSaber playlists.",
+  "main": "format.js",
+  "dependencies": {
+    "@sindresorhus/slugify": "^2.1.0",
+    "ba64": "^3.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3tman/BSaber-PlaylistAPI.git"
+  },
+  "author": "n3tman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n3tman/BSaber-PlaylistAPI/issues"
+  },
+  "homepage": "https://github.com/n3tman/BSaber-PlaylistAPI#readme"
+}
