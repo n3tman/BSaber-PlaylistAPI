@@ -1,61 +1,67 @@
-{
+﻿{
     "playlistTitle": "Fitbeat Map Pack",
     "playlistAuthor": "Alice",
     "playlistDescription": "",
     "syncURL": "https://bsaber.com/PlaylistAPI/21-05-08_fitbeat-map-pack_alice.bplist",
     "songs": [
         {
+            "key": "1a32a",
+            "hash": "8b7fc7b898aece2967690846da7889048c0880ff",
+            "name": "[Ranked] Shiggy Jr. - Oyasumi (Chroma)",
+            "uploader": "alicexiv"
+        },
+        {
             "key": "17509",
             "hash": "81f74ad9681c21c98b4a7debb0597fcb1d5884dd",
-            "songName": "[Fitbeat] USAO - Rampage (Chroma)",
+            "name": "[Fitbeat] USAO - Rampage (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "17514",
             "hash": "af179788376628d9fa7c9828a67aa349c1a993a5",
-            "songName": "[Fitbeat] Big Time Rush - Windows Down (Nightcore) (Chroma)",
+            "name": "[Fitbeat] Big Time Rush - Windows Down (Nightcore) (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "175d8",
             "hash": "b85626bc94dbc4e1bfbbff37fbaeb3e8bb5baf76",
-            "songName": "[Fitbeat] Tokyo Machine - FLY (Chroma)",
+            "name": "[Fitbeat] Tokyo Machine - FLY (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "179ba",
             "hash": "2915d2a6793f90bba151510e23c0b5b00f4049cc",
-            "songName": "[Fitbeat] Foster The People - Don't Stop (Chroma)",
+            "name": "[Fitbeat] Foster The People - Don't Stop (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "176b0",
             "hash": "7e612713c3953fe5e1787deab63297b06320e8a0",
-            "songName": "[Fitbeat] Shitdisco - Reactor Party (Chroma)",
+            "name": "[Fitbeat] Shitdisco - Reactor Party (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "17726",
             "hash": "7357c2a3bbaafd995ef7a384c101bf54cef723b4",
-            "songName": "[Fitbeat] Nathan Evans - Wellerman (Sea Shanty - Nathan Evans x ARGULES) (Chroma)",
+            "name": "[Fitbeat] Nathan Evans - Wellerman (Sea Shanty - Nathan Evans x ARGULES) (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "17883",
             "hash": "7f13dfc265d6bf88bba55345800cbb7881fa5b97",
-            "songName": "[Fitbeat] C-Show - GIMME DA BLOOD (Chroma)",
+            "name": "[Fitbeat] C-Show - GIMME DA BLOOD (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "17689",
             "hash": "7e4177dfb2b58e647780a0e8e96aedb652f5ffd7",
-            "songName": "[Fitbeat] DJ Noriken - Exhaust Hype (Chroma)",
+            "name": "[Fitbeat] DJ Noriken - Exhaust Hype (Chroma)",
             "uploader": "alicexiv"
         },
         {
             "key": "179bc",
             "hash": "37b35e60a1c54ddb8409e916131e4aee628b985c",
-            "songName": "[Fitbeat] LilDeuceDeuce (asdfmovie song) - I Like Trains (Chroma)",
+            "name": "[Fitbeat] LilDeuceDeuce (asdfmovie song) - I Like Trains (Chroma)",
             "uploader": "alicexiv"
         }
     ],
