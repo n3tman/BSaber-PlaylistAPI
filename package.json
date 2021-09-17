@@ -5,7 +5,8 @@
   "main": "format.js",
   "dependencies": {
     "@sindresorhus/slugify": "^2.1.0",
-    "ba64": "^3.0.9"
+    "ba64": "^3.0.9",
+    "sync-request": "^6.1.0"
   },
   "devDependencies": {},
   "scripts": {
