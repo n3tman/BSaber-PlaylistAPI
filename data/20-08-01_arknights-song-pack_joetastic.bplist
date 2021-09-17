@@ -3,119 +3,70 @@
     "playlistAuthor": "Joetastic",
     "playlistDescription": "Enjoy these songs from the hit mobile game Arknights, featuring artists such as Steve Aoki, Starset, DJ Okawari and many more!\n\n(This song pack was supported by Chesutapichi)",
     "syncURL": "https://bsaber.com/PlaylistAPI/20-08-01_arknights-song-pack_joetastic.bplist",
-    "songs": [
-        {
+    "songs": [{
             "key": "b834",
             "hash": "b45f2df7212eadf6f6436eec33cb5e25e919d739",
             "songName": "Untitled world [Arknights Anniversary Song] - ReoNa",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "bd91",
             "hash": "a0e5c2968d21964cc23042835be61cfb15b918dd",
             "songName": "Speed of Light [Arknights Soundtrack] - DJ Okawari ft. Ai Ninomiya",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "bf71",
             "hash": "e1c38ebe4c85688d00f27dcae94d6712e4d9b088",
             "songName": "Survive [Arknights Soundtrack] - QUIX",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c157",
             "hash": "e2ed4505ea6cb8dad39e461463fa0945bd62b734",
             "songName": "Last Of Me [Arknights Soundtrack] - Steve Aoki ft. RUNN",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c29a",
             "hash": "8f39e0f764e1f2bf8564047e6faf4f28002d32a8",
             "songName": "Monster [Arknights Soundtrack] - Starset",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c366",
             "hash": "559319cb4e8820128be74113ae5bf5bf6620ec38",
             "songName": "Unbecoming [Arknights Soundtrack] - Starset",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c74b",
             "hash": "b04e377e87e07efcad546ca9b92a8b27eae32d8f",
             "songName": "Renegade [Arknights Soundtrack] - Jason Walsh ft. Substantial & X.ARI",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c841",
             "hash": "8e968f2425189d5458f4b4d08c0bb65f774cb78a",
             "songName": "Save Us From Ourselves [Arknights Soundtrack] - Bear Grillz ft. Micah Martin",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c905",
             "hash": "0a3de872e09c74cb40de76b1df011aca51cc5b8b",
             "songName": "Everything's Alright [Arknights Soundtrack] - DJ Okawari ft. Kaori Sawada",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "c960",
             "hash": "350e89254081d4c2e79951479be57f0e4729a969",
             "songName": "Operation Pyrite [Arknights Soundtrack] - Jason Walsh ft. Alan Day",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "cb80",
             "hash": "74aad7c496c88f2fe234934cb0e61c9633b0db76",
             "songName": "Boiling Blood [Arknights Soundtrack] - Jason Walsh ft. Cristina Vee",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "cc18",
             "hash": "9cfd2bd5712e13aa861fc6219821cc43ec3d2314",
             "songName": "After It All [Arknights Soundtrack] - Yellow Claw",
             "uploader": "joetastic"
-        },
-        {
+        }, {
             "key": "cc5b",
             "hash": "e201f5623c063034908db9018edcaf5a171c7304",
             "songName": "Art of Blade [Arknights Soundtrack] - Jason Walsh",
-            "uploader": "joetastic"
-        },
-        {
-            "key": "e41b",
-            "hash": "c83a511a760b1fd9b7d8081642bc9a786d43023e",
-            "songName": "ALIVE [Arknights Soundtrack] - Alive Until Sunset ft. Cristina Vee",
-            "uploader": "joetastic"
-        },
-        {
-            "key": "120e6",
-            "hash": "2328d2ec0efd8a6714f6799a313a824f81cecd89",
-            "songName": "Rock the Night Away [Arknights Soundtrack] - W, Weedy, Zima, & Blaze",
-            "uploader": "joetastic"
-        },
-        {
-            "key": "1261c",
-            "hash": "cbbd7a02a16832cf994202dee0250ab76008623a",
-            "songName": "Come to Light [Arknights Soundtrack] - Jeff Williams ft. Casey Lee Williams",
-            "uploader": "joetastic"
-        },
-        {
-            "key": "12755",
-            "hash": "ed547c28eeff95d07b10cf14b8f33c2001e8a568",
-            "songName": "End Like This [Arknights Soundtrack] - Steve Aoki ft. RUNN",
-            "uploader": "joetastic"
-        },
-        {
-            "key": "135af",
-            "hash": "2fb445285297578cd690a49215103977b920a41e",
-            "songName": "Wonder in Lead Seal [Arknights Soundtrack] - HyperGryph ft. Cristina Vee",
-            "uploader": "joetastic"
-        },
-        {
-            "key": "15a44",
-            "hash": "cab99f299bbe1e639e8360136ed1740e1d0df414",
-            "songName": "daydaydream [Arknights Soundtrack] - HyperGryph",
             "uploader": "joetastic"
         }
     ],
