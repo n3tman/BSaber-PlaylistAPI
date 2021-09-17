@@ -7,49 +7,49 @@
         {
             "key": "10cc1",
             "hash": "36d53336523e0ccf58ebe2001f24894cda51a75d",
-            "songName": "Dear Diary, - Bring Me The Horizon",
+            "name": "Dear Diary, - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "10cc6",
             "hash": "39addbca6821a6a1207e14b8a811eb2952bc25d1",
-            "songName": "Parasite Eve - Bring Me The Horizon",
+            "name": "Parasite Eve - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "109c1",
             "hash": "1001279786d38e8aa77de86bcc9b87243c315c2b",
-            "songName": "Teardrops - Bring Me The Horizon",
+            "name": "Teardrops - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "10e70",
             "hash": "61ffa4d400b5f5bce2ea0a2e77378586f4306578",
-            "songName": "Obey (ft. YUNGBLUD) - Bring Me The Horizon",
+            "name": "Obey (ft. YUNGBLUD) - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "10872",
             "hash": "bbe9d8b7b519b4dc85fbb41c212159984d9a1ec7",
-            "songName": "Itch For The Cure / Kingslayer (ft. BABYMETAL) - Bring Me The Horizon",
+            "name": "Itch For The Cure / Kingslayer (ft. BABYMETAL) - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "10c93",
             "hash": "c4df85e6b9a78610440818d88c6d9e957ea43731",
-            "songName": "1x1 (ft. Nova Twins) - Bring Me The Horizon",
+            "name": "1x1 (ft. Nova Twins) - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "10f9b",
             "hash": "8f1ce766271e3d6c14e6904af0855266fdbb18b5",
-            "songName": "Ludens - Bring Me The Horizon",
+            "name": "Ludens - Bring Me The Horizon",
             "uploader": "bytrius"
         },
         {
             "key": "109de",
             "hash": "320d7811f2eb42e8401cb8a5e9051cfe1c1cc58c",
-            "songName": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (ft. Amy Lee) - Bring Me The Horizon",
+            "name": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (ft. Amy Lee) - Bring Me The Horizon",
             "uploader": "bytrius"
         }
     ],

@@ -7,37 +7,37 @@
         {
             "key": "2e6d",
             "hash": "dc54dd29689010c673b1f53d39359b39af62f1e3",
-            "songName": "The Last Stand [MSGA]",
+            "name": "The Last Stand [MSGA]",
             "uploader": "darkgrisen"
         },
         {
             "key": "2e6e",
             "hash": "148f21f2be99a8cf542cd3c748d8ef6fe792f8e2",
-            "songName": "Winged Hussars [MSGA]",
+            "name": "Winged Hussars [MSGA]",
             "uploader": "darkgrisen"
         },
         {
             "key": "2e6f",
             "hash": "d9988a659b47b2919a28baa432f7529042f2439b",
-            "songName": "Sparta - Sabaton [MSGA]",
+            "name": "Sparta - Sabaton [MSGA]",
             "uploader": "heisenbergirl"
         },
         {
             "key": "2e70",
             "hash": "e7199bd3e16ec6bb21a6ebf54888bbb03b1b6add",
-            "songName": "Union - Sabaton [MSGA]",
+            "name": "Union - Sabaton [MSGA]",
             "uploader": "rexxz"
         },
         {
             "key": "2e72",
             "hash": "ca662e5563ee6ca4db87c5687e63c35f3af9e9f6",
-            "songName": "Man of War - Sabaton [MSGA]",
+            "name": "Man of War - Sabaton [MSGA]",
             "uploader": "rexxz"
         },
         {
             "key": "2e71",
             "hash": "eaad7e4294a3e960dc00bec4a6194b2cae59faac",
-            "songName": "Sabaton - Night Witches [MSGA]",
+            "name": "Sabaton - Night Witches [MSGA]",
             "uploader": "ruckus"
         }
     ],

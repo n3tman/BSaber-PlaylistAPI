@@ -7,7 +7,7 @@
         {
             "key": "b784",
             "hash": "a6e3e3d9bcdc743c18cfc06f8cd45dbb934a5c74",
-            "songName": "Hare Hare Yukai (Short Ver.) [The Melancholy of Haruhi Suzumiya Ending]",
+            "name": "Hare Hare Yukai (Short Ver.) [The Melancholy of Haruhi Suzumiya Ending]",
             "uploader": "etan",
             "customData": {
                 "cinema": {
@@ -22,7 +22,7 @@
         {
             "key": "1623e",
             "hash": "b29aae21f0f2d0f56d83bcb78158ba461421b957",
-            "songName": "God knows... (TV Size) (2021 Remaster) [The Melancholy of Haruhi Suzumiya Soundtrack] - Haruhi Suzumiya",
+            "name": "God knows... (TV Size) (2021 Remaster) [The Melancholy of Haruhi Suzumiya Soundtrack] - Haruhi Suzumiya",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -37,7 +37,7 @@
         {
             "key": "adc7",
             "hash": "1cba4a68218d873da18ae66267f88cf1baf9f8a0",
-            "songName": "Megumeru (TV Size) - Eufonius [Clannad OP 1] [Chroma]",
+            "name": "Megumeru (TV Size) - Eufonius [Clannad OP 1] [Chroma]",
             "uploader": "theab",
             "customData": {
                 "cinema": {
@@ -52,7 +52,7 @@
         {
             "key": "13555",
             "hash": "541cf3c8454092a0224e0312aef6b8ab7faf8326",
-            "songName": "Dango Daikazoku (TV Size)",
+            "name": "Dango Daikazoku (TV Size)",
             "uploader": "cocoagalaxy",
             "customData": {
                 "cinema": {
@@ -67,7 +67,7 @@
         {
             "key": "7d4a",
             "hash": "908348e756837738b59b5334216c913c811c6165",
-            "songName": "Cagayake! GIRLS (TV size Ver.) [K-ON! Opening 1] - Yui Hirasawa (CV: Aki Toyosaki)",
+            "name": "Cagayake! GIRLS (TV size Ver.) [K-ON! Opening 1] - Yui Hirasawa (CV: Aki Toyosaki)",
             "uploader": "rigid",
             "customData": {
                 "cinema": {
@@ -82,7 +82,7 @@
         {
             "key": "707c",
             "hash": "5ddf2ef2ac21c6cba48e216e217ce8bb98efc747",
-            "songName": "Don't say \"lazy\" [K-On! Ending] - Sakuragaoka High School Light Music Club",
+            "name": "Don't say \"lazy\" [K-On! Ending] - Sakuragaoka High School Light Music Club",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -97,7 +97,7 @@
         {
             "key": "16238",
             "hash": "ccaad4bbcd7b646c02141abee270fa7c1d9d702f",
-            "songName": "staple stable (TV Size) [Bakemonogatari Opening] - Chiwa Saito",
+            "name": "staple stable (TV Size) [Bakemonogatari Opening] - Chiwa Saito",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -112,7 +112,7 @@
         {
             "key": "16234",
             "hash": "4a1283e589de78a1cf0250d118ba6b77cd12faf8",
-            "songName": "Kimi no shiranai Monogatari (TV Size) (2021 Remaster) [Bakemonogatari Ending] - Supercell",
+            "name": "Kimi no shiranai Monogatari (TV Size) (2021 Remaster) [Bakemonogatari Ending] - Supercell",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -127,7 +127,7 @@
         {
             "key": "16235",
             "hash": "d2171756897c008f0fc2e542c4bb8c2c8932f744",
-            "songName": "Renai Circulation (TV Size) [Bakemonogatari Opening 4] - Kana Hanazawa",
+            "name": "Renai Circulation (TV Size) [Bakemonogatari Opening 4] - Kana Hanazawa",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -142,7 +142,7 @@
         {
             "key": "130b8",
             "hash": "6e76022f56b8c5e738692a858bcfe588ce1ba52b",
-            "songName": "My Soul, Your Beats! (TV Size)",
+            "name": "My Soul, Your Beats! (TV Size)",
             "uploader": "sandalphon",
             "customData": {
                 "cinema": {
@@ -157,7 +157,7 @@
         {
             "key": "1622d",
             "hash": "166c0b748f445a98d819a4ed1f0ad28662d0ece7",
-            "songName": "Connect (TV Size) [Mahou Shoujo Madoka Magica Opening]- ClariS",
+            "name": "Connect (TV Size) [Mahou Shoujo Madoka Magica Opening]- ClariS",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -176,7 +176,7 @@
         {
             "key": "1622f",
             "hash": "169fff2eee24fa9737a9695b391a9fdc53523e67",
-            "songName": "Hacking to the Gate (TV Size) (2021 Remaster) [Steins;Gate Opening] - Kanako Itou",
+            "name": "Hacking to the Gate (TV Size) (2021 Remaster) [Steins;Gate Opening] - Kanako Itou",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -191,7 +191,7 @@
         {
             "key": "f8cc",
             "hash": "fdb521e4a87db91f5a9ee7ad8aa1c3522123b8a9",
-            "songName": "oath sign - LiSA",
+            "name": "oath sign - LiSA",
             "uploader": "uninstaller",
             "customData": {
                 "cinema": {
@@ -206,7 +206,7 @@
         {
             "key": "b345",
             "hash": "92cc9c3ed6282b5f30aaf1028ff2ea5b922124f7",
-            "songName": "Platinum Disco (Short Ver.) [Nisemonogatari Opening 3]",
+            "name": "Platinum Disco (Short Ver.) [Nisemonogatari Opening 3]",
             "uploader": "etan",
             "customData": {
                 "cinema": {
@@ -221,7 +221,7 @@
         {
             "key": "ab1b",
             "hash": "c0200ccbba82070efc584166097de32290ee6194",
-            "songName": "Brave Shine - Aimer",
+            "name": "Brave Shine - Aimer",
             "uploader": "edmard",
             "customData": {
                 "cinema": {
@@ -236,7 +236,7 @@
         {
             "key": "a523",
             "hash": "7b267811489fd71b998abd35c3216aafc81b681a",
-            "songName": "DREAM SOLISTER [Hibike! Euphonium Opening] - TRUE",
+            "name": "DREAM SOLISTER [Hibike! Euphonium Opening] - TRUE",
             "uploader": "rigid",
             "customData": {
                 "cinema": {
@@ -252,7 +252,7 @@
         {
             "key": "e24a",
             "hash": "928be31ddb5db88c4a3aa4ae666f29a61056cd70",
-            "songName": "Brand-new World [The Asterisk War Opening] - Shiena Nishizawa",
+            "name": "Brand-new World [The Asterisk War Opening] - Shiena Nishizawa",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -267,13 +267,13 @@
         {
             "key": "affd",
             "hash": "fb65067e15499e61b412cd701391ded2b3e0bad8",
-            "songName": "99 | Mob Choir",
+            "name": "99 | Mob Choir",
             "uploader": "thelitlewiseowl"
         },
         {
             "key": "717c",
             "hash": "9baca408f27d8b8c373651a1aa4580fd43d1b5c9",
-            "songName": "Soundscape [Hibike! Euphonium Season 2 Opening] - TRUE",
+            "name": "Soundscape [Hibike! Euphonium Season 2 Opening] - TRUE",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -289,7 +289,7 @@
         {
             "key": "96fc",
             "hash": "f4555835fccad370eda615cbeff120afe9c4ab13",
-            "songName": "JINGO JUNGLE [Youjo Senki Opening] - MYTH & ROID",
+            "name": "JINGO JUNGLE [Youjo Senki Opening] - MYTH & ROID",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -305,13 +305,13 @@
         {
             "key": "8115",
             "hash": "cdfd561127d3a71c02af0996c215242fcb789f79",
-            "songName": "Los! Los! Los! (German Ver.) [Youjo Senki Ending] - Selphius",
+            "name": "Los! Los! Los! (German Ver.) [Youjo Senki Ending] - Selphius",
             "uploader": "joetastic"
         },
         {
             "key": "11be3",
             "hash": "6977e2825e13104dadadd2a6816c84af1f780072",
-            "songName": "Fuyu biyori - Yuru Camp",
+            "name": "Fuyu biyori - Yuru Camp",
             "uploader": "emir",
             "customData": {
                 "cinema": {
@@ -326,7 +326,7 @@
         {
             "key": "751d",
             "hash": "ac75aaad665d1c2fa9acb3580080b1a5c3513a63",
-            "songName": "Fatima (TV Size) [Steins;Gate 0 Opening] - Kanako Itou",
+            "name": "Fatima (TV Size) [Steins;Gate 0 Opening] - Kanako Itou",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -341,13 +341,13 @@
         {
             "key": "11a7e",
             "hash": "602473907b761ced57ba38ef39c0d2ed122cb7bb",
-            "songName": "Escape [Darling in the Franxx Ending 5] - XX:me",
+            "name": "Escape [Darling in the Franxx Ending 5] - XX:me",
             "uploader": "joetastic"
         },
         {
             "key": "b22a",
             "hash": "4884268af612b8b4ba7803f790dd33d7976e680a",
-            "songName": "Love With You (TV Size) [Kishuku Gakkou no Juliet Opening] - fripSide",
+            "name": "Love With You (TV Size) [Kishuku Gakkou no Juliet Opening] - fripSide",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -362,7 +362,7 @@
         {
             "key": "13e55",
             "hash": "ca53289a418e11dedf79b4db427aed1378b75d11",
-            "songName": "Minami - Crying for Rain",
+            "name": "Minami - Crying for Rain",
             "uploader": "joshabi",
             "customData": {
                 "cinema": {
@@ -377,7 +377,7 @@
         {
             "key": "16246",
             "hash": "2521bf4bd70baa6b272dee6b90c79f8dd23a347c",
-            "songName": "Chikatto Chika Chika (TV Size) [Kaguya-sama: Love Is War Ep3 Ending] - Konomi Kohara",
+            "name": "Chikatto Chika Chika (TV Size) [Kaguya-sama: Love Is War Ep3 Ending] - Konomi Kohara",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -392,7 +392,7 @@
         {
             "key": "1622c",
             "hash": "62a63aa11f61623fdd69411bf73ab1082d4558d6",
-            "songName": "Gurenge (TV Size) [Demon Slayer: Kimetsu no Yaiba Opening] - LiSA",
+            "name": "Gurenge (TV Size) [Demon Slayer: Kimetsu no Yaiba Opening] - LiSA",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -407,7 +407,7 @@
         {
             "key": "98e3",
             "hash": "4efa33aa04c0231e6069339e270b390eef563b9b",
-            "songName": "FLARE [Arifureta Opening] - Void_Chords ft. LIO",
+            "name": "FLARE [Arifureta Opening] - Void_Chords ft. LIO",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -422,13 +422,13 @@
         {
             "key": "11de5",
             "hash": "08d9a92c273f6d06baa30c5b70f182c902349578",
-            "songName": "Kaibutsu (TV Size) [Beastars Season 2 Opening] - YOASOBI",
+            "name": "Kaibutsu (TV Size) [Beastars Season 2 Opening] - YOASOBI",
             "uploader": "joetastic"
         },
         {
             "key": "6ed4",
             "hash": "108f939f6a5a2c2f02e4e1e7c9a9bf46345681a4",
-            "songName": "Sayuri - Koukai no Uta [Boku no Hero Academia Ending 6]",
+            "name": "Sayuri - Koukai no Uta [Boku no Hero Academia Ending 6]",
             "uploader": "etan",
             "customData": {
                 "cinema": {
@@ -444,7 +444,7 @@
         {
             "key": "819d",
             "hash": "aedb469dfb348b9b1eb7859b5861ef5abb87f2ba",
-            "songName": "CHAIN [Darwin's Game Opening] - ASCA",
+            "name": "CHAIN [Darwin's Game Opening] - ASCA",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -459,7 +459,7 @@
         {
             "key": "a79b",
             "hash": "4c20cb62dcd126ebb85a0bf152964f89f5bffaa1",
-            "songName": "No.7 (TV Size) [Jibaku Shounen Hanako-kun Opening] - Jibaku Shounen Band",
+            "name": "No.7 (TV Size) [Jibaku Shounen Hanako-kun Opening] - Jibaku Shounen Band",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -474,7 +474,7 @@
         {
             "key": "872f",
             "hash": "886fb099859a20336696341201b0e3087585a636",
-            "songName": "Mononoke in the Fiction [Kyokou Suiri Opening] - Uso to Chameleon",
+            "name": "Mononoke in the Fiction [Kyokou Suiri Opening] - Uso to Chameleon",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -490,7 +490,7 @@
         {
             "key": "cc6b",
             "hash": "f5aa307d43696c9c37ca7c43cf95764db3ef0417",
-            "songName": "Shout Baby - Rokuoushoku Shakai (Hero Academia 4th ed)",
+            "name": "Shout Baby - Rokuoushoku Shakai (Hero Academia 4th ed)",
             "uploader": "emir",
             "customData": {
                 "cinema": {
@@ -505,13 +505,13 @@
         {
             "key": "a005",
             "hash": "9e5166087692d5ecb7a7af872a860c6208ec0f1c",
-            "songName": "TOP (Japanese Version) [Tower of God Opening] - Stray Kids",
+            "name": "TOP (Japanese Version) [Tower of God Opening] - Stray Kids",
             "uploader": "joetastic"
         },
         {
             "key": "a382",
             "hash": "8948b97a01f26f31974af9e59bb919e9327a3d31",
-            "songName": "SLUMP (Japanese Version) [Tower of God Ending] - Stray Kids",
+            "name": "SLUMP (Japanese Version) [Tower of God Ending] - Stray Kids",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -527,13 +527,13 @@
         {
             "key": "cdd6",
             "hash": "41f542425e5ac160e62be2a515ce891c0eaaa3aa",
-            "songName": "NIGHT RUNNING [BNA: Brand New Animal Ending] - Shin Sakiura ft. AAAMYYY",
+            "name": "NIGHT RUNNING [BNA: Brand New Animal Ending] - Shin Sakiura ft. AAAMYYY",
             "uploader": "joetastic"
         },
         {
             "key": "9a29",
             "hash": "a0990b907ff06bff7d15d920ed7a131d6491c81d",
-            "songName": "DADDY! DADDY! DO! (TV Size) [Kaguya-sama: Love Is War Season 2 Opening] - Masayuki Suzuki ft. Airi Suzuki",
+            "name": "DADDY! DADDY! DO! (TV Size) [Kaguya-sama: Love Is War Season 2 Opening] - Masayuki Suzuki ft. Airi Suzuki",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -548,13 +548,13 @@
         {
             "key": "8dfa",
             "hash": "a9d9fbe7905236860bb33bfd209af0df206dcf14",
-            "songName": "Check the Answer [Kaguya-sama: Love Is War Season 2 OST] - Kaguya Shinomiya (CV. Aoi Koga)",
+            "name": "Check the Answer [Kaguya-sama: Love Is War Season 2 OST] - Kaguya Shinomiya (CV. Aoi Koga)",
             "uploader": "joetastic"
         },
         {
             "key": "a884",
             "hash": "2cbb3607a14198dd356fc003d30943847911eab9",
-            "songName": "Kaze ni Fukarete (TV Size) [Kaguya-sama: Love Is War Season 2 Ending] - Haruka Fukuhara",
+            "name": "Kaze ni Fukarete (TV Size) [Kaguya-sama: Love Is War Season 2 Ending] - Haruka Fukuhara",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -569,13 +569,13 @@
         {
             "key": "b8d7",
             "hash": "980cf4979240c9d2b1107a24d6143dd9b85f8098",
-            "songName": "Contradiction [The God of High School Opening] - KSUKE ft. Tyler Carter",
+            "name": "Contradiction [The God of High School Opening] - KSUKE ft. Tyler Carter",
             "uploader": "joetastic"
         },
         {
             "key": "b1b3",
             "hash": "a9193d530afeb7d86e7acc14f073372018c4d1be",
-            "songName": "Realize - Suzuki Konomi (zero kara hajimeru isekai seikatsu saison 2 op)TV size",
+            "name": "Realize - Suzuki Konomi (zero kara hajimeru isekai seikatsu saison 2 op)TV size",
             "uploader": "emir",
             "customData": {
                 "cinema": {
@@ -590,7 +590,7 @@
         {
             "key": "b928",
             "hash": "a6dd705d1efddd413753c36d61827e27eb36f429",
-            "songName": "Centimeter (kanojo okarishimasu [Rental Girlfriend] op)",
+            "name": "Centimeter (kanojo okarishimasu [Rental Girlfriend] op)",
             "uploader": "emir",
             "customData": {
                 "cinema": {
@@ -605,7 +605,7 @@
         {
             "key": "13ac2",
             "hash": "6496223d74f0ef3851eecbe911d1690401b08162",
-            "songName": "Kaikai Kitan [Jujutsu Kaisen Opening] - Eve",
+            "name": "Kaikai Kitan [Jujutsu Kaisen Opening] - Eve",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -621,13 +621,13 @@
         {
             "key": "1867d",
             "hash": "02d6534ec7821d596e39990760246d6094add135",
-            "songName": "Hollow Purple (Gojo Satoru Theme) [Jujutsu Kaisen Soundtrack] - Alisa Okahezama",
+            "name": "Hollow Purple (Gojo Satoru Theme) [Jujutsu Kaisen Soundtrack] - Alisa Okahezama",
             "uploader": "joetastic"
         },
         {
             "key": "106bf",
             "hash": "894a7721617618b10718778140ac47fe84160835",
-            "songName": "LOST IN PARADISE (TV Size) [Jujutsu Kaisen Ending] - ALI ft. AKLO",
+            "name": "LOST IN PARADISE (TV Size) [Jujutsu Kaisen Ending] - ALI ft. AKLO",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -643,7 +643,7 @@
         {
             "key": "12455",
             "hash": "11dcf49249df7a51ce303cde8c6e67ef75abce5d",
-            "songName": "ReoNa - Seimeisen (Short Ver.)",
+            "name": "ReoNa - Seimeisen (Short Ver.)",
             "uploader": "smileeaglet",
             "customData": {
                 "cinema": {
@@ -658,7 +658,7 @@
         {
             "key": "1472e",
             "hash": "a42d822e149b5c925c04cd1cf7661f5380897bb5",
-            "songName": "VIVID VICE (TV Size) [Jujutsu Kaisen Opening 2] - Who-ya Extended",
+            "name": "VIVID VICE (TV Size) [Jujutsu Kaisen Opening 2] - Who-ya Extended",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {
@@ -673,7 +673,7 @@
         {
             "key": "18a65",
             "hash": "9b9d4d87009de845d705ea55715ce31f43c8605a",
-            "songName": "Footprints (TV Size) [My Hero Academia Ending 8] - the peggies",
+            "name": "Footprints (TV Size) [My Hero Academia Ending 8] - the peggies",
             "uploader": "joetastic",
             "customData": {
                 "cinema": {

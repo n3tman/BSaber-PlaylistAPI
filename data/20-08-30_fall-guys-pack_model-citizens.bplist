@@ -7,37 +7,37 @@
         {
             "key": "e0b0",
             "hash": "2d0a2e3253f51be74ed4cff366ba0666b3d4363a",
-            "songName": "Everybody Falls (Fall Guys Theme) [Fall Guys Pack]",
+            "name": "Everybody Falls (Fall Guys Theme) [Fall Guys Pack]",
             "uploader": "fallguyspack"
         },
         {
             "key": "e0ad",
             "hash": "1734afc74a4cbbb55fa41b7772cd8a6223b487e9",
-            "songName": "Fall 'N' Roll [Fall Guys Pack]",
+            "name": "Fall 'N' Roll [Fall Guys Pack]",
             "uploader": "fallguyspack"
         },
         {
             "key": "e0ae",
             "hash": "b8d940f0ac786a8d3d1e2df1c69d3ebc6cafb8e4",
-            "songName": "Survive the Fall [Fall Guys Pack]",
+            "name": "Survive the Fall [Fall Guys Pack]",
             "uploader": "fallguyspack"
         },
         {
             "key": "e0ac",
             "hash": "adf42169c9cb75fd340832b146139ca85e590caa",
-            "songName": "Fall for the Team [Fall Guys Pack]",
+            "name": "Fall for the Team [Fall Guys Pack]",
             "uploader": "fallguyspack"
         },
         {
             "key": "e0ab",
             "hash": "65943ce6e4463220adcd88fd8aa062b8bac09baa",
-            "songName": "Final Fall [Fall Guys Pack]",
+            "name": "Final Fall [Fall Guys Pack]",
             "uploader": "fallguyspack"
         },
         {
             "key": "e0a9",
             "hash": "ba183f8ecf4e17b9f7ebf63aa75b49203b0b507e",
-            "songName": "Didn't Fall! (You Win) [Fall Guys Pack]",
+            "name": "Didn't Fall! (You Win) [Fall Guys Pack]",
             "uploader": "fallguyspack"
         }
     ],
